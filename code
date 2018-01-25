@@ -1,1 +1,1 @@
-* * * * * php -q /sdcard/script > /dev/null 2>&1 
+* * * * * php -q /sdcard/code > /dev/null 2>&1 
