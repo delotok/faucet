@@ -1,0 +1,1 @@
+* * * * * php -q /sdcard/script > /dev/null 2>&1 
