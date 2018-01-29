@@ -1,7 +1,6 @@
 <?php
 /*
-This Code Was created by Akbar
-RECODE By LeeProject
+Recoded By LeeProject
 THIS SCRIPT IS FREE - NOT FOR SALE
 */
 date_default_timezone_set('Asia/Jakarta');
